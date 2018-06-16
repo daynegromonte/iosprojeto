@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "636f7bfb39faded4fb85d5b37f7479b7"
+build_time: [1526708952, 564879000]
+inputs:
+  "/Users/admin/Documents/XCode Projects/DayProjeto/DayProjeto/ViewController.swift": [1526591926, 0]
+  "/Users/admin/Documents/XCode Projects/DayProjeto/DayProjeto/AppDelegate.swift": [1526588891, 0]
+  "/Users/admin/Documents/XCode Projects/DayProjeto/DayProjeto/TextHelper.swift": [1526591861, 0]
+  "/Users/admin/Documents/XCode Projects/DayProjeto/DayProjeto/InfoViewController.swift": [1526590762, 0]
+  "/Users/admin/Documents/XCode Projects/DayProjeto/DayProjeto/CronogramaViewController.swift": [1526708653, 0]
